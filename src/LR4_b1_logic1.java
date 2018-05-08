@@ -5,6 +5,7 @@ public class LR4_b1_logic1 {
         greenTicket(2, 2, 2);
         greenTicket(1, 1, 2);
 
+
     }
 
     public static int greenTicket(int a, int b, int c) {
